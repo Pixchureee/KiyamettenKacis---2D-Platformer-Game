@@ -46,6 +46,14 @@ Theme adaptation: The theme is emphasized through the storyline presented at the
 
 ---
 
+## 📷 Screenshots
+
+![Gameplay Screenshot](images/img1.png)
+![Gameplay Screenshot](images/img2.png)
+![Gameplay Screenshot](images/img3.png)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
