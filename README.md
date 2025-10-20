@@ -49,9 +49,9 @@ Theme adaptation: The theme is emphasized through the storyline presented at the
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="images/menu.png" width="300">
-  <img src="images/gameplay.png" width="300">
-  <img src="images/end.png" width="300">
+  <img src="images/img1.png" width="300">
+  <img src="images/img2.png" width="300">
+  <img src="images/img3.png" width="300">
 </p>
 
 ---
